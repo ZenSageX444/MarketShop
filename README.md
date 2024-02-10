@@ -15,4 +15,3 @@ This system is a system that allows players to buy and sell items in the market.
 
 # 💬 Community group
 *[**discord**](https://discord.com/invite/HcXTaB8UwA)*
-*[**youtube video preview**](https://youtu.be/lDgJXeSbn58?si=mQ9XdUPkcVya1I14)*
