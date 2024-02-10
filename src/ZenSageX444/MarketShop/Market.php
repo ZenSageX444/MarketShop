@@ -37,7 +37,7 @@ class Market extends PluginBase{
          }
          
          if(!class_exists(InvMenu::class)){
-             $this->getLogger()->info($this->getPrefix()." §eInvMenu §cnot found Please Install");
+             $this->getLogger()->info($this->getPrefix()." §eInvMenu §cnot found Please Install §for install phar file from github");
              $this->getServer()->getPluginManager()->disablePlugin($this);
              return;
          }else{
