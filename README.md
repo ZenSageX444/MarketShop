@@ -12,6 +12,7 @@ This system is a system that allows players to buy and sell items in the market.
 
 # Libs & virion
  - [InvMenu](https://github.com/Muqsit/InvMenu)
+ - [bedrockEconony](https://github.com/cooldogepm/BedrockEconomy)
 
 # 💬 Community group
 *[**discord**](https://discord.com/invite/HcXTaB8UwA)*
