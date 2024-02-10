@@ -3,6 +3,8 @@
 	<br>
 </p>
 
+![1](https://github.com/ZenSageX444/MarketShop/blob/main/images/icon.png)
+
 # 📜 info
 This system is a system that allows players to buy and sell items in the market.
 
