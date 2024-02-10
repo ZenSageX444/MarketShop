@@ -5,6 +5,8 @@
 
 ![1](https://github.com/ZenSageX444/MarketShop/blob/main/images/icon.png)
 
+[![video](https://img.youtube.com/vi/lDgJXeSbn58/0.jpg)](https://www.youtube.com/watch?v=lDgJXeSbn58)
+
 # 📜 info
 This system is a system that allows players to buy and sell items in the market.
 
