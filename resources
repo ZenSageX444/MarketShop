@@ -1,0 +1,11 @@
+---
+
+prefix: "§bMarketShop§f:"
+
+# cooldown seconds
+cooldown: 120
+
+# type of database
+# list of type: yml, 
+databaseType: yml
+...
